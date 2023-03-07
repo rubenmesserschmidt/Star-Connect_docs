@@ -1,19 +1,28 @@
-addon_name
+Star Connect
 =============
 
-.. image:: images/image_name.jpg
+.. image:: images/Star_Connect_Thumbnail.png
    :width: 600
-   :alt: addon_name Thumbnail
+   :alt: Star Connect Thumbnail
 
 
-**Instant Clean** is a single click mesh clean addon for Blender.
-Save yourself some time by automating the mesh clean process.
+**Star Connect** makes the mesh triangulation process easier then ever before, by introducing its own mode.
+Easily determine how your mesh should be triangulated, you have complete control.
 |
 
 Features
 --------
 
-* features
+**Star Connect Basic**
+
+* Instead of joining the verts each by each you can connect all at once.
+
+|
+**Star Connect Pro**
+
+* Experience a new mode with smart bevel detection and intuitive tools to bring your triangulation at its best.
+  Including a blender-like selection, undo and redo system to feel familiar from the first moment.
+* Find all features under :doc:`star_connect_mode`
 |
 
 Support

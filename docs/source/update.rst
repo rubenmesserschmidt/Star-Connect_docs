@@ -1,12 +1,12 @@
 Update
 ######
 
-addon_name
+Star Connect
 *************
 
-1. Deinstall the old version of addon_name under *Edit/Preferences/Add-ons/addon_name/Remove*.
+1. Deinstall the old version of Star Connect under *Edit/Preferences/Add-ons/Star Connect/Remove*.
 #. Follow the :doc:`installation` instructions and choose the new addon .zip file.
-#. Enjoy the new version of addon_name.
+#. Enjoy the new version of Star Connect.
  
 
 Blender Version

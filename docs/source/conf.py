@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'addon_name'
-copyright = 'current_year, author_name'
-author = 'author_name'
+project = 'Star Connect'
+copyright = '2023, Ruben Messerschmidt'
+author = 'Ruben Messerschmidt'
 
 release = '1.0.0'
 version = '1.0.0'
