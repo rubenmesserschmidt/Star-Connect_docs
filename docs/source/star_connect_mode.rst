@@ -6,6 +6,8 @@ Enter
 *****
 
 * Enter the Star Connect Mode by pressing ``CTRL + SHIFT + MIDDLE MOUSE BUTTON`` or by choosing *Star Connect* in the Mode Pie.
+
+|
 * Curve Detection
  :Max Angle: Maximum angle of an edge to be considered as part of a curve.
  :Max Length Difference: Maximum edge length difference within a curve in percent.
@@ -104,8 +106,8 @@ Split
 * Split all selected curves into two even sized star connections by pressing ``C``.
 
 |
-Edit Star Connections
-*********************
+Edit
+****
 
 * Add/Remove vertices from the star connection by clicking on them while holding ``CTRL``.
 
