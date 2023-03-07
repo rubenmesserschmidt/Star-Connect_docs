@@ -23,5 +23,14 @@ Apply
 * Apply the Star Connect Mode by pressing ``SPACE``
   All edited star connections will be converted into real geometry
 
+
+Move
+****
+
+* Move all selected curves/circles on the same face as the active one along the adjacent face by pressing ``G``
+  :Precision: Enable precision mode by holding ``SHIFT``
+  :Normal: Enable move along normal mode by holding ``ALT``
+  :Snapping: Enable snapping to vertices or other star connections by holding ``CTRL``
+
   
 
