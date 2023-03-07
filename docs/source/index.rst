@@ -8,7 +8,6 @@ Star Connect
 
 **Star Connect** makes the mesh triangulation process easier then ever before, by introducing its own mode.
 Easily determine how your mesh should be triangulated, you have complete control.
-|
 
 Features
 --------
@@ -17,7 +16,6 @@ Features
 
 * Instead of joining the verts each by each you can connect all at once.
 
-|
 **Star Connect Pro**
 
 * Experience a new mode with smart bevel detection and intuitive tools to bring your triangulation at its best.
@@ -29,7 +27,6 @@ Support
 -------
 
 If you have any questions get in touch via :doc:`contact`.
-|
 
 Contents
 --------
@@ -39,6 +36,7 @@ Contents
 
    installation
    update
-   changelog 
+   star_connect_mode
+   changelog
    contact
 |
