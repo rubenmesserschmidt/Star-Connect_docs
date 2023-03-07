@@ -4,8 +4,11 @@ Update
 Star Connect
 *************
 
-1. Deinstall the old version of Star Connect under *Edit/Preferences/Add-ons/Star Connect/Remove*.
-#. Follow the :doc:`installation` instructions and choose the new addon .zip file.
+.. warning::
+    DO NOT deinstall the old version of Star Connect!
+    Otherwise all preferences will be gone and reseted to the default.
+
+1. Follow the :doc:`installation` instructions and choose the new addon .zip file.
 #. Enjoy the new version of Star Connect.
  
 
