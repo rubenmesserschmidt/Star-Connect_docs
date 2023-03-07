@@ -28,6 +28,7 @@ Support
 
 If you have any questions get in touch via :doc:`contact`.
 
+|
 Contents
 --------
 
