@@ -37,6 +37,7 @@ Contents
 
    installation
    update
+   changelog
    star_connect_mode
    contact
 |
