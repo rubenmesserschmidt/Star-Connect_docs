@@ -3,6 +3,22 @@ Changelog
 =========
 
 #####
+1.2.1
+#####
+
+*December 21th, 2023*
+
+*********
+Bug Fixes
+*********
+
+**Backwards Compatibility**
+    Star Connect is now compatible with lower Blender versions until 3.3.0 again.
+
+**Mac Undo Shortcut**
+    The star mode undo shortcut is now ``Cmd + Z`` on Mac by default. Always make sure to have this shortcut set the same as the Blender undo shortcut, otherwise an error will occur.
+
+#####
 1.2.0
 #####
 
