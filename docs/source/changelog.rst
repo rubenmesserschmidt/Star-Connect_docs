@@ -3,6 +3,20 @@ Changelog
 =========
 
 #####
+1.3.0
+#####
+
+*April 8th, 2024*
+
+************
+New Features
+************
+
+**Blender 4.1 Support**
+    Star Connect is now compatible with Blender 4.1.
+
+
+#####
 1.2.1
 #####
 
