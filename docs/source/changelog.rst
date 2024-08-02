@@ -3,6 +3,25 @@ Changelog
 =========
 
 #####
+1.4.0
+#####
+
+*August 2nd, 2024*
+
+************
+New Features
+************
+
+**Blender 4.2 Extensions Support**
+    Star Connect is now compatible with Blender 4.2 and Extensions.
+
+**Star Connect Pro: Star Connect**
+    Star Connect Pro now includes the basic Star Connect functionality.
+
+**Improved Preferences**
+    The Preferences are now more organized and easier to navigate.
+
+#####
 1.3.0
 #####
 
