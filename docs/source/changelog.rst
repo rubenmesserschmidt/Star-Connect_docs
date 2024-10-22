@@ -3,6 +3,19 @@ Changelog
 =========
 
 #####
+1.4.1
+#####
+
+*August 2nd, 2024*
+
+*********
+Bug Fixes
+*********
+
+**Basic Star Connect**
+    Fixed an issue where an error message occured when no vertext was active. Now you get notified an active vertex is required.
+
+#####
 1.4.0
 #####
 
