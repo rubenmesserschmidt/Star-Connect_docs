@@ -6,8 +6,8 @@ project = "Star Connect"
 copyright = "2023, Ruben Messerschmidt"
 author = "Ruben Messerschmidt"
 
-release = "1.2.1"
-version = "1.2.1"
+release = "1.4.1"
+version = "1.4.1"
 
 # -- General configuration
 
