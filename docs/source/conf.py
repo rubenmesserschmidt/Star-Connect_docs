@@ -3,7 +3,7 @@
 # -- Project information
 
 project = "Star Connect"
-copyright = "2023, Ruben Messerschmidt"
+copyright = "2024, Ruben Messerschmidt"
 author = "Ruben Messerschmidt"
 
 release = "1.4.1"
